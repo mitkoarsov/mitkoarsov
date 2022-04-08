@@ -43,7 +43,7 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2c81fe?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white" />
   
-  <img alt="Coda" src="https://img.shields.io/badge/Coda-ee5a2a?style=flat-square&logo=coda&logoColor=black" />
+  <img alt="Coda" src="https://img.shields.io/badge/Coda-black?style=flat-square&logo=coda&logoColor=ee5a2a" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=githubactions&logoColor=f8a829" />
