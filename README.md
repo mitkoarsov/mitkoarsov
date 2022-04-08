@@ -33,10 +33,9 @@
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=mui&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/D3.js-f99f3f?style=flat-square&logo=d3dotjs&logoColor=white" />
   
-  
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-EF5B25?style=flat-square&logo=postman&logoColor=black" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=EF5B25" />
   
   <img alt="Jest" src="https://img.shields.io/badge/Jest-a53b4e?style=flat-square&logo=jest&logoColor=white" />
   
