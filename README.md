@@ -24,7 +24,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-292c33?style=flat-square&logo=react&logoColor=61DBFB" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=764abc" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
   
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
    &nbsp;
