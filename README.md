@@ -32,6 +32,7 @@
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=mui&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/D3.js-f99f3f?style=flat-square&logo=d3dotjs&logoColor=white" />
   
+  
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
   
@@ -39,7 +40,7 @@
   
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-white?style=flat-square&logo=webpack&logoColor=8ED5FA" />
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2c81fe?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Github Pages" src="https://img.shields.io/badge/Github_Pages-2c81fe?style=flat-square&logo=githubpages&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=githubactions&logoColor=f8a829" />
