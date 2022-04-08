@@ -11,7 +11,7 @@
 
 <div>&nbsp;</div>
 
-#Tools I work with
+# Tools I work with
 
 <div id="technologies">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
@@ -54,6 +54,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="25" height="25"/>
    &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="25" height="25"/>
+   &nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Photoshop" alt="Photoshop" width="25" height="25"/>
    &nbsp;
 </div>
 
