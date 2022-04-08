@@ -49,5 +49,5 @@
   <img alt="Coda" src="https://img.shields.io/badge/Coda-black?style=flat-square&logo=coda&logoColor=ee5a2a" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=githubactions&logoColor=f8a829" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=adobeillustrator&logoColor=f8a829" />
 </div>
