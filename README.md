@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## Tools I use
+## What I use
 
 <div id="technologies">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudio&logoColor=white" />
