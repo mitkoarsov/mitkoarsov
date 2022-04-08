@@ -14,6 +14,7 @@
 
 <div id="technologies">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img alt="iTerm" src="https://img.shields.io/badge/iTerm2-202b2d?style=flat-square&logo=git&iterm2=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-368fb9?style=flat-square&logo=yarn&logoColor=white" />
   
