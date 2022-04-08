@@ -29,6 +29,8 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
   
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-a53b4e?style=flat-square&logo=jest&logoColor=white" />
+  
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
    &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/>
