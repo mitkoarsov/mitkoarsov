@@ -1,5 +1,5 @@
 
-## Connect with me
+### Connect with me
 
 <div id="connect">
   <a href="https://www.linkedin.com/in/mitkoarsov/L">
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<p>What I use</p>
+### What I use
 
 <div id="technologies">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudio&logoColor=white" />
@@ -50,5 +50,3 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=githubactions&logoColor=f8a829" />
 </div>
-
-
