@@ -26,6 +26,9 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
   
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=nodedotjs&logoColor=black" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-white?style=flat-square&logo=nestdotjs&logoColor=black" />
+  
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
    &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/>
