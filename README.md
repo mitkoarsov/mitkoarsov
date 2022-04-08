@@ -1,5 +1,6 @@
 
-## Connect
+## Connect with me
+
 <div id="connect">
   <a href="https://www.linkedin.com/in/mitkoarsov/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +10,7 @@
   </a>
 </div>
 
-<div>&nbsp;</div>
-
-## Tools I work with
+## Tools I code with
 
 <div id="technologies">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
