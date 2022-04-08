@@ -9,9 +9,9 @@
   </a>
 </div>
 
-<div></div>
+<div>&nbsp;</div>
 
-<div id="technologies">
+<div id="technologies" style={{ background-color: '#fff' }}>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
    &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/>
