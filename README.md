@@ -48,6 +48,6 @@
   <img alt="Miro" src="https://img.shields.io/badge/Miro-ffd030?style=flat-square&logo=miro&logoColor=050038" />
   <img alt="Coda" src="https://img.shields.io/badge/Coda-black?style=flat-square&logo=coda&logoColor=ee5a2a" />
   
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=adobeillustrator&logoColor=f8a829" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-4FCCFE?style=flat-square&logo=adobephotoshop&logoColor=18152E" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-f8a829?style=flat-square&logo=adobeillustrator&logoColor=0e0c14" />
 </div>
