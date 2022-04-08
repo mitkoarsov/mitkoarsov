@@ -51,5 +51,3 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-4FCCFE?style=flat-square&logo=adobephotoshop&logoColor=18152E" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-f8a829?style=flat-square&logo=adobeillustrator&logoColor=0e0c14" />
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vTanchev.vTanchev&left_color=green&right_color=red)
