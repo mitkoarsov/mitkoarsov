@@ -23,7 +23,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/YAML-e535ab?style=flat-square&logo=yaml&logoColor=white" />
   
   <img alt="React" src="https://img.shields.io/badge/React-292c33?style=flat-square&logo=react&logoColor=61DBFB" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=764abc" />
@@ -40,6 +39,7 @@
   
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-white?style=flat-square&logo=webpack&logoColor=8ED5FA" />
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2c81fe?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Github Pages" src="https://img.shields.io/badge/Github_Pages-2c81fe?style=flat-square&logo=githubpages&logoColor=white" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=githubactions&logoColor=f8a829" />
