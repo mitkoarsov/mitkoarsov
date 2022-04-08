@@ -30,6 +30,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
   
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=mui&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=tui&logoColor=white" />
   
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
