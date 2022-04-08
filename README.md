@@ -21,7 +21,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=graphql&logoColor=white" />
   
-  <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=61DBFB" />
+  <img alt="React" src="https://img.shields.io/badge/React-292c33?style=flat-square&logo=react&logoColor=61DBFB" />
   <img alt="Redux" src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=nextdotjs&logoColor=white" />
