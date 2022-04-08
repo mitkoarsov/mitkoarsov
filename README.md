@@ -3,7 +3,7 @@
 
 <div id="connect">
   <a href="https://www.linkedin.com/in/mitkoarsov/L">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/mitkoarsov">
     <img src="https://img.shields.io/badge/Codewars-b0361e?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
