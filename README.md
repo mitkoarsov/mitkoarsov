@@ -37,6 +37,7 @@
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=EF5B25" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=4DB33D" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336691" />
   
   <img alt="Jest" src="https://img.shields.io/badge/Jest-a53b4e?style=flat-square&logo=jest&logoColor=white" />
   
