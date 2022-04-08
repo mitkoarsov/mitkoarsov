@@ -38,8 +38,7 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest-a53b4e?style=flat-square&logo=jest&logoColor=white" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
-  
-  
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Photoshop-0e0c14?style=flat-square&logo=adobeillustrator&logoColor=f8a829" />
 </div>
 
 
