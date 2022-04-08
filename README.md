@@ -14,7 +14,7 @@
 
 <div id="technologies">
    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudio&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-0078d7?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=visualstudio&logoColor=white" />
   
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
    &nbsp;
