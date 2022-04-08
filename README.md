@@ -1,10 +1,10 @@
 
 
 <div id="connect">
-  <a href="https://www.linkedin.com/in/mitkoarsov/L">
+  <a href="https://www.linkedin.com/in/mitkoarsov/L" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/mitkoarsov">
+  <a href="https://www.codewars.com/users/mitkoarsov" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
 </div>
