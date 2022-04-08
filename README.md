@@ -42,7 +42,7 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest-a53b4e?style=flat-square&logo=jest&logoColor=white" />
   
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-white?style=flat-square&logo=webpack&logoColor=8ED5FA" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2c81fe?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-white?style=flat-square&logo=githubactions&logoColor=2c81fe" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white" />
   
   <img alt="Miro" src="https://img.shields.io/badge/Miro-ffd030?style=flat-square&logo=miro&logoColor=050038" />
