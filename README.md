@@ -26,8 +26,8 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black" />
   
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=nodedotjs&logoColor=black" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-white?style=flat-square&logo=nestjs&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
   
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="25" height="25"/>
    &nbsp;
