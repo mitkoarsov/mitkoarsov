@@ -38,9 +38,10 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest-a53b4e?style=flat-square&logo=jest&logoColor=white" />
   
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-white?style=flat-square&logo=webpack&logoColor=8ED5FA" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2c81fe?style=flat-square&logo=webpack&logoColor=white" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=4FCCFE" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=adobeillustrator&logoColor=f8a829" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-0e0c14?style=flat-square&logo=githubactions&logoColor=f8a829" />
 </div>
 
 
