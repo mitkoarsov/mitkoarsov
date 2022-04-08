@@ -17,7 +17,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-368fb9?style=flat-square&logo=yarn&logoColor=white" />
   
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=black" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-F0DB4F?style=flat-square&logo=css3&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
