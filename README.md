@@ -12,7 +12,7 @@
 ### What I use
 
 <div id="technologies">
-  <a src="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/">
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudio&logoColor=white" />
   </a>
   <img alt="iTerm" src="https://img.shields.io/badge/iTerm2-202b2d?style=flat-square&logo=iterm2&iterm2=white" />
