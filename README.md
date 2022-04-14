@@ -1,6 +1,3 @@
-
-## Frontend developer with an architecture and design background. <br/> Passionate about clean code and reusability.
-
 ### Connect with me
 
 <div id="connect">
