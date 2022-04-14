@@ -1,5 +1,6 @@
 
-## Frontend developer with an architecture and design background. Passionate about clean code and reusability.
+## Frontend developer with an architecture and design background. 
+## Passionate about clean code and reusability.
 
 ### Connect with me
 
