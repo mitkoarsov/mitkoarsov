@@ -32,7 +32,7 @@
   
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=mui&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/D3.js-f99f3f?style=flat-square&logo=d3dotjs&logoColor=white" />
-  <img alt="Three.js" src="https://img.shields.io/badge/D3.js-f99f3f?style=flat-square&logo=threejs&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/D3.js-f99f3f?style=flat-square&logo=threedotjs&logoColor=white" />
   
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=black" />
