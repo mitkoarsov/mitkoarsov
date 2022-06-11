@@ -7,6 +7,9 @@
   <a href="https://www.codewars.com/users/mitkoarsov">
     <img src="https://img.shields.io/badge/Codewars-b0361e?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
+  <a href="https://cssbattle.dev/player/marsov">
+    <img src="https://img.shields.io/badge/CssBeatle-b0361e?style=for-the-badge&logo=cssbeatle&logoColor=white" alt="Codewars Badge"/>
+  </a>
 </div>
 
 ### What I use
