@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Codewars-b0361e?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="https://cssbattle.dev/player/marsov">
-    <img src="https://img.shields.io/badge/CssBeatle-b0361e?style=for-the-badge&logo=cssbeatle&logoColor=white" alt="CssBattle Badge"/>
+    <img src="https://img.shields.io/badge/CssBattle-ffdd00?style=for-the-badge&logo=cssbattle&logoColor=white" alt="CssBattle Badge"/>
   </a>
 </div>
 
