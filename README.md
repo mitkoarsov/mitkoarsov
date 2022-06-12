@@ -1,14 +1,14 @@
 ### Connect with me
 
 <div id="connect">
-  <a href="https://www.linkedin.com/in/mitkoarsov/L">
+  <a href="https://www.linkedin.com/in/mitkoarsov/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/mitkoarsov">
     <img src="https://img.shields.io/badge/Codewars-b0361e?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="https://cssbattle.dev/player/marsov">
-    <img src="https://img.shields.io/badge/CssBeatle-b0361e?style=for-the-badge&logo=cssbeatle&logoColor=white" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/CssBeatle-b0361e?style=for-the-badge&logo=cssbeatle&logoColor=white" alt="CssBattle Badge"/>
   </a>
 </div>
 
