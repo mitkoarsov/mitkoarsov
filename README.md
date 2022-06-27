@@ -34,6 +34,7 @@
   
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0083d1?style=flat-square&logo=mui&logoColor=white" />
   <img alt="D3.js" src="https://img.shields.io/badge/D3.js-f99f3f?style=flat-square&logo=d3dotjs&logoColor=white" />
+  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-fe777b?style=flat-square&logo=chartdotjs&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" />
   
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -47,9 +48,6 @@
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-white?style=flat-square&logo=webpack&logoColor=8ED5FA" />
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-white?style=flat-square&logo=githubactions&logoColor=2c81fe" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white" />
-  
-  <img alt="Miro" src="https://img.shields.io/badge/Miro-ffd030?style=flat-square&logo=miro&logoColor=050038" />
-  <img alt="Coda" src="https://img.shields.io/badge/Coda-black?style=flat-square&logo=coda&logoColor=ee5a2a" />
   
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-4FCCFE?style=flat-square&logo=adobephotoshop&logoColor=18152E" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-f8a829?style=flat-square&logo=adobeillustrator&logoColor=0e0c14" />
