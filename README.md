@@ -1,5 +1,3 @@
-### Connect with me
-
 <div id="connect">
   <a href="https://www.linkedin.com/in/mitkoarsov/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
